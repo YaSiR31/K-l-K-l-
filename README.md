@@ -1,2 +1,2 @@
-# K-l-K-l-
+# Káló Káló
 Number guesser 
